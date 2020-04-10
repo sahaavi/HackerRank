@@ -26,7 +26,7 @@
 |[Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets)| <ul><ul> | Easy | 10 ||
 |[A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum)| <ul><li>[C#](./Algorithms/Warmup/A%20Very%20Big%20Sum/Solution.cs)</li><ul> | Easy | 10 ||
 |[Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference)| <ul><li>[C#](./Algorithms/Warmup/Diagonal%20Difference)</li><ul> | Easy | 10 ||
-|[Plus Minus](https://www.hackerrank.com/challenges/plus-minus)| <ul><li>[C#](./Algorithms/Warmup/Plus%20Minus)</li><ul> | Easy | 10 ||
+|[Plus Minus](https://www.hackerrank.com/challenges/plus-minus)| <ul><li>[C#](./Algorithms/Warmup/Plus%20Minus/Solution.cs)</li><ul> | Easy | 10 ||
 |[Staircase](https://www.hackerrank.com/challenges/staircase)| <ul><li>[C#](./Algorithms/Warmup/Staircase/Solution.cs)</li><ul> | Easy | 10 ||
 |[Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum)| <ul><ul> | Easy | 10 ||
 |[Time Conversion](https://www.hackerrank.com/challenges/time-conversion)| <ul><ul> | Easy | 15 ||

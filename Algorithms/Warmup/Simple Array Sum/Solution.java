@@ -5,10 +5,7 @@ import java.util.*;
 import java.util.regex.*;
 
 public class Solution {
-
-    /*
-     * Complete the simpleArraySum function below.
-     */
+    
     static int simpleArraySum(int[] ar) {
         int len=ar.length;
         int sum=0;

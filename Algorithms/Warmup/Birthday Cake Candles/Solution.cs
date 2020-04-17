@@ -5,7 +5,6 @@ class Solution
 {
     static void Main(String[] args)
     {
-        //No need to capture the size of array. I use array's length property instead.
         ReadLine();
         var height_temp = ReadLine().Split(' ');
         var height = Array.ConvertAll(height_temp, int.Parse);

@@ -14,8 +14,7 @@ class Solution
         var tokens_a = Console.ReadLine().Split(' ');
         var appleTreePosition = int.Parse(tokens_a[0]);
         var OrangeTreePosition = int.Parse(tokens_a[1]);
-
-        //No need to capture number of apples and oranges as I use foreach loop to iterate them.
+        
         Console.ReadLine();
 
         var apple_temp = Console.ReadLine().Split(' ');

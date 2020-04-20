@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-	<img src="https://img.shields.io/badge/Problems%20Solved-13-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Problems%20Solved-14-brightgreen.svg">
 	<img src="https://img.shields.io/badge/Language-C%23%2FJava-orange.svg">
 	<img src="https://img.shields.io/badge/Last%20Update-17%20Apr%202020-green.svg">
 </p>
@@ -37,7 +37,7 @@
 ### Implementation
 | Title           |  Solution       | Difficulty    | Points          |
 |---------------- |:---------------:| :-------------:|:--------------:|
-|[Grading Students](https://www.hackerrank.com/challenges/grading/problem)| <ul><ul> | Easy | 10 ||
+|[Grading Students](https://www.hackerrank.com/challenges/grading/problem)| <ul><li>[C#](./Algorithms/Implementation/Grading%20Students/Solution.cs)</li><ul> | Easy | 10 ||
 |[Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange/problem)| <ul><li>[C#](./Algorithms/Implementation/Apple%20and%20Orange/Solution.cs)</li><ul> | Easy | 10 ||
 |[Kangaroo](https://www.hackerrank.com/challenges/kangaroo/problem)| <ul><ul> | Easy | 10 ||
 |[Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets/problem)| <ul><ul> | Easy | 10 ||

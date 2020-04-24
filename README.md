@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-	<img src="https://img.shields.io/badge/Problems%20Solved-14-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Problems%20Solved-15-brightgreen.svg">
 	<img src="https://img.shields.io/badge/Language-C%23%2FJava-orange.svg">
 	<img src="https://img.shields.io/badge/Last%20Update-17%20Apr%202020-green.svg">
 </p>

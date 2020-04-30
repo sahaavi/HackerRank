@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-	<img src="https://img.shields.io/badge/Problems%20Solved-16-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Problems%20Solved-17-brightgreen.svg">
 	<img src="https://img.shields.io/badge/Language-C%23%2FJava-orange.svg">
 	<img src="https://img.shields.io/badge/Last%20Update-17%20Apr%202020-green.svg">
 </p>
@@ -43,6 +43,7 @@
 |[Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets/problem)| <ul><li>[C#](./Algorithms/Implementation/Between%20Two%20Sets/Solution.cs)</li><ul> | Easy | 10 ||
 |[Divisible Sum Pairs](https://www.hackerrank.com/challenges/divisible-sum-pairs/problem)| <ul><li>[C#](./Algorithms/Implementation/Divisible%20Sum%20Pairs/Solution.cs)</li><ul> | Easy | 10 ||
 |[Bon Appétit](https://www.hackerrank.com/challenges/bon-appetit/problem)| <ul><li>[C#](./Algorithms/Implementation/Bon%20App%C3%A9tit/Solution.cs)</li><ul> | Easy | 10 ||
+|[Breaking the Records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem)| <ul><li>[C#](./Algorithms/Implementation/Breaking%20the%20Records/Solution.cs)</li><ul> | Easy | 10 ||
 
 
 [Problems Solved]:https://img.shields.io/badge/Problems%20Solved-04-brightgreen.svg

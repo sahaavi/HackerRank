@@ -39,7 +39,7 @@
 |---------------- |:---------------:| :-------------:|:--------------:|
 |[Grading Students](https://www.hackerrank.com/challenges/grading/problem)| <ul><li>[C#](./Algorithms/Implementation/Grading%20Students/Solution.cs)</li><ul> | Easy | 10 ||
 |[Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange/problem)| <ul><li>[C#](./Algorithms/Implementation/Apple%20and%20Orange/Solution.cs)</li><ul> | Easy | 10 ||
-|[Kangaroo](https://www.hackerrank.com/challenges/kangaroo/problem)| <ul><ul> | Easy | 10 ||
+|[Kangaroo](https://www.hackerrank.com/challenges/kangaroo/problem)| <ul><li>[C#](./Algorithms/Implementation/Kangaroo/Solution.cs)</li><ul> | Easy | 10 ||
 |[Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets/problem)| <ul><li>[C#](./Algorithms/Implementation/Between%20Two%20Sets/Solution.cs)</li><ul> | Easy | 10 ||
 |[Divisible Sum Pairs](https://www.hackerrank.com/challenges/divisible-sum-pairs/problem)| <ul><li>[C#](./Algorithms/Implementation/Divisible%20Sum%20Pairs/Solution.cs)</li><ul> | Easy | 10 ||
 |[Bon Appétit](https://www.hackerrank.com/challenges/bon-appetit/problem)| <ul><li>[C#](./Algorithms/Implementation/Bon%20App%C3%A9tit/Solution.cs)</li><ul> | Easy | 10 ||

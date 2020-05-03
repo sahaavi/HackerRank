@@ -44,6 +44,8 @@
 |[Divisible Sum Pairs](https://www.hackerrank.com/challenges/divisible-sum-pairs/problem)| <ul><li>[C#](./Algorithms/Implementation/Divisible%20Sum%20Pairs/Solution.cs)</li><ul> | Easy | 10 ||
 |[Bon Appétit](https://www.hackerrank.com/challenges/bon-appetit/problem)| <ul><li>[C#](./Algorithms/Implementation/Bon%20App%C3%A9tit/Solution.cs)</li><ul> | Easy | 10 ||
 |[Breaking the Records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem)| <ul><li>[C#](./Algorithms/Implementation/Breaking%20the%20Records/Solution.cs)</li><ul> | Easy | 10 ||
+|[Sock Merchant](https://www.hackerrank.com/challenges/sock-merchant/problem)| <ul><li>[C#](./Algorithms/Implementation/Sock%20Merchant/Solution.cs)</li><ul> | Easy | 10 ||
+
 
 
 [Problems Solved]:https://img.shields.io/badge/Problems%20Solved-04-brightgreen.svg

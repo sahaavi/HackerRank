@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-	<img src="https://img.shields.io/badge/Problems%20Solved-19-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Problems%20Solved-21-brightgreen.svg">
 	<img src="https://img.shields.io/badge/Language-C%23%2FJava-orange.svg">
 	<img src="https://img.shields.io/badge/Last%20Update-17%20Apr%202020-green.svg">
 </p>
@@ -45,6 +45,7 @@
 |[Birthday Chocolate](https://www.hackerrank.com/challenges/the-birthday-bar/problem)| <ul><li>[C#](./Algorithms/Implementation/Birthday%20Chocolate/Solution.cs)</li><ul> | Easy | 10 ||
 |[Divisible Sum Pairs](https://www.hackerrank.com/challenges/divisible-sum-pairs/problem)| <ul><li>[C#](./Algorithms/Implementation/Divisible%20Sum%20Pairs/Solution.cs)</li><ul> | Easy | 10 ||
 |[Migratory Birds](https://www.hackerrank.com/challenges/migratory-birds/problem)| <ul><li>[C#](./Algorithms/Implementation/Migratory%20Birds/Solution.cs)</li><ul> | Easy | 10 ||
+|[Day of the Programmer](https://www.hackerrank.com/challenges/day-of-the-programmer/problem)| <ul><li>[C#](./Algorithms/Implementation/Day%20of%20the%20Programmer/Solution.cs)</li><ul> | Easy | 15 ||
 |[Bon Appétit](https://www.hackerrank.com/challenges/bon-appetit/problem)| <ul><li>[C#](./Algorithms/Implementation/Bon%20App%C3%A9tit/Solution.cs)</li><ul> | Easy | 10 ||
 |[Sock Merchant](https://www.hackerrank.com/challenges/sock-merchant/problem)| <ul><li>[C#](./Algorithms/Implementation/Sock%20Merchant/Solution.cs)</li><ul> | Easy | 10 ||
 

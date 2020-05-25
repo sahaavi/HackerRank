@@ -9,9 +9,9 @@
 </p>
 
 <p align="center">
-	<img src="https://img.shields.io/badge/Problems%20Solved-21-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Problems%20Solved-22-brightgreen.svg">
 	<img src="https://img.shields.io/badge/Language-C%23%2FJava-orange.svg">
-	<img src="https://img.shields.io/badge/Last%20Update-17%20Apr%202020-green.svg">
+	<img src="https://img.shields.io/badge/Last%20Update-25%20May%202020-green.svg">
 </p>
 
 
@@ -48,6 +48,7 @@
 |[Day of the Programmer](https://www.hackerrank.com/challenges/day-of-the-programmer/problem)| <ul><li>[C#](./Algorithms/Implementation/Day%20of%20the%20Programmer/Solution.cs)</li><ul> | Easy | 15 ||
 |[Bon Appétit](https://www.hackerrank.com/challenges/bon-appetit/problem)| <ul><li>[C#](./Algorithms/Implementation/Bon%20App%C3%A9tit/Solution.cs)</li><ul> | Easy | 10 ||
 |[Sock Merchant](https://www.hackerrank.com/challenges/sock-merchant/problem)| <ul><li>[C#](./Algorithms/Implementation/Sock%20Merchant/Solution.cs)</li><ul> | Easy | 10 ||
+|[Drawing Book](https://www.hackerrank.com/challenges/drawing-book/problem)| <ul><li>[C#](./Algorithms/Implementation/Drawing%20Book/Solution.cs)</li><ul> | Easy | 10 ||
 
 
 

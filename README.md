@@ -9,9 +9,9 @@
 </p>
 
 <p align="center">
-	<img src="https://img.shields.io/badge/Problems%20Solved-22-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Problems%20Solved-23-brightgreen.svg">
 	<img src="https://img.shields.io/badge/Language-C%23%2FJava-orange.svg">
-	<img src="https://img.shields.io/badge/Last%20Update-25%20May%202020-green.svg">
+	<img src="https://img.shields.io/badge/Last%20Update-26%20May%202020-green.svg">
 </p>
 
 
@@ -49,6 +49,7 @@
 |[Bon Appétit](https://www.hackerrank.com/challenges/bon-appetit/problem)| <ul><li>[C#](./Algorithms/Implementation/Bon%20App%C3%A9tit/Solution.cs)</li><ul> | Easy | 10 ||
 |[Sock Merchant](https://www.hackerrank.com/challenges/sock-merchant/problem)| <ul><li>[C#](./Algorithms/Implementation/Sock%20Merchant/Solution.cs)</li><ul> | Easy | 10 ||
 |[Drawing Book](https://www.hackerrank.com/challenges/drawing-book/problem)| <ul><li>[C#](./Algorithms/Implementation/Drawing%20Book/Solution.cs)</li><ul> | Easy | 10 ||
+|[Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys/problem)| <ul><li>[C#](./Algorithms/Implementation/Counting%20Valleys/Solution.cs)</li><ul> | Easy | 15 ||
 
 
 

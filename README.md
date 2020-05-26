@@ -9,8 +9,8 @@
 </p>
 
 <p align="center">
-	<img src="https://img.shields.io/badge/Problems%20Solved-23-brightgreen.svg">
-	<img src="https://img.shields.io/badge/Language-C%23%2FJava-orange.svg">
+	<img src="https://img.shields.io/badge/Problems%20Solved-24-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Language-C%23%2FJava/Python-orange.svg">
 	<img src="https://img.shields.io/badge/Last%20Update-26%20May%202020-green.svg">
 </p>
 
@@ -50,6 +50,19 @@
 |[Sock Merchant](https://www.hackerrank.com/challenges/sock-merchant/problem)| <ul><li>[C#](./Algorithms/Implementation/Sock%20Merchant/Solution.cs)</li><ul> | Easy | 10 ||
 |[Drawing Book](https://www.hackerrank.com/challenges/drawing-book/problem)| <ul><li>[C#](./Algorithms/Implementation/Drawing%20Book/Solution.cs)</li><ul> | Easy | 10 ||
 |[Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys/problem)| <ul><li>[C#](./Algorithms/Implementation/Counting%20Valleys/Solution.cs)</li><ul> | Easy | 15 ||
+	
+
+
+
+
+
+## Python
+- [Introduction](https://github.com/sahaavi/HackerRank/tree/master/Python/Introduction)
+
+### Introduction
+| Title           |  Solution       | Difficulty    | Points          |
+|---------------- |:---------------:| :-------------:|:--------------:|
+|[Say "Hello, World!" With Python](https://www.hackerrank.com/challenges/py-hello-world/problem)| <ul><li>[Python 3](./Python/Introduction/Say%20%22Hello%2C%20World!%22%20With%20Python/Solution.py)</li><ul> | Easy | 5 ||
 
 
 

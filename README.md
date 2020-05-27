@@ -9,9 +9,9 @@
 </p>
 
 <p align="center">
-	<img src="https://img.shields.io/badge/Problems%20Solved-24-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Problems%20Solved-25-brightgreen.svg">
 	<img src="https://img.shields.io/badge/Language-C%23%2FJava/Python-orange.svg">
-	<img src="https://img.shields.io/badge/Last%20Update-26%20May%202020-green.svg">
+	<img src="https://img.shields.io/badge/Last%20Update-27%20May%202020-green.svg">
 </p>
 
 
@@ -63,6 +63,7 @@
 | Title           |  Solution       | Difficulty    | Points          |
 |---------------- |:---------------:| :-------------:|:--------------:|
 |[Say "Hello, World!" With Python](https://www.hackerrank.com/challenges/py-hello-world/problem)| <ul><li>[Python 3](./Python/Introduction/Say%20%22Hello%2C%20World!%22%20With%20Python/Solution.py)</li><ul> | Easy | 5 ||
+|[Arithmetic Operators](https://www.hackerrank.com/challenges/python-arithmetic-operators/problem)| <ul><li>[Python 3](./Python/Introduction/Arithmetic%20Operators/Solution.py)</li><ul> | Easy | 10 ||
 
 
 

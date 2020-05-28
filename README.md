@@ -50,6 +50,7 @@
 |[Sock Merchant](https://www.hackerrank.com/challenges/sock-merchant/problem)| <ul><li>[C#](./Algorithms/Implementation/Sock%20Merchant/Solution.cs)</li><ul> | Easy | 10 ||
 |[Drawing Book](https://www.hackerrank.com/challenges/drawing-book/problem)| <ul><li>[C#](./Algorithms/Implementation/Drawing%20Book/Solution.cs)</li><ul> | Easy | 10 ||
 |[Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys/problem)| <ul><li>[C#](./Algorithms/Implementation/Counting%20Valleys/Solution.cs)</li><ul> | Easy | 15 ||
+|[Electronics Shop](https://www.hackerrank.com/challenges/electronics-shop/problem)| <ul><li>[C#](./Algorithms/Implementation/Electronics%20Shop/Solution.cs)</li><ul> | Easy | 15 ||
 	
 
 

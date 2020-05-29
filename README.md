@@ -9,9 +9,9 @@
 </p>
 
 <p align="center">
-	<img src="https://img.shields.io/badge/Problems%20Solved-26-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Problems%20Solved-28-brightgreen.svg">
 	<img src="https://img.shields.io/badge/Language-C%23%2FJava/Python-orange.svg">
-	<img src="https://img.shields.io/badge/Last%20Update-28%20May%202020-green.svg">
+	<img src="https://img.shields.io/badge/Last%20Update-30%20May%202020-green.svg">
 </p>
 
 
@@ -51,6 +51,7 @@
 |[Drawing Book](https://www.hackerrank.com/challenges/drawing-book/problem)| <ul><li>[C#](./Algorithms/Implementation/Drawing%20Book/Solution.cs)</li><ul> | Easy | 10 ||
 |[Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys/problem)| <ul><li>[C#](./Algorithms/Implementation/Counting%20Valleys/Solution.cs)</li><ul> | Easy | 15 ||
 |[Electronics Shop](https://www.hackerrank.com/challenges/electronics-shop/problem)| <ul><li>[C#](./Algorithms/Implementation/Electronics%20Shop/Solution.cs)</li><ul> | Easy | 15 ||
+|[Cats and a Mouse](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem)| <ul><li>[C#](./Algorithms/Implementation/Cats%20and%20a%20Mouse/Solution.cs)</li><ul> | Easy | 15 ||
 	
 
 

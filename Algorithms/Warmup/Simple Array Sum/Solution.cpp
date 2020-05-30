@@ -9,13 +9,13 @@ int main()
 {
 
 
-    long long int ar_count,sum=0,i;
+    int ar_count,sum=0,i;
 
 
     cin >> ar_count;
 
 
-    long array[ar_count];
+    int array[ar_count];
 
     for(i=0;i<ar_count;i++)
     {
@@ -34,3 +34,4 @@ int main()
 
     return 0;
 }
+

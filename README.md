@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-	<img src="https://img.shields.io/badge/Problems%20Solved-28-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Problems%20Solved-29-brightgreen.svg">
 	<img src="https://img.shields.io/badge/Language-C%23%2FJava/Python-orange.svg">
 	<img src="https://img.shields.io/badge/Last%20Update-30%20May%202020-green.svg">
 </p>
@@ -18,6 +18,7 @@
 ## Algorithms
 - [Warmup](https://github.com/sahaavi/HackerRank/tree/master/Algorithms/Warmup)
 - [Implementation](https://github.com/sahaavi/HackerRank/tree/master/Algorithms/Implementation)
+- [Strings](https://github.com/sahaavi/HackerRank/tree/master/Algorithms/Strings)
 
 ### Warmup
 | Title           |  Solution       | Difficulty    | Points          |
@@ -52,6 +53,12 @@
 |[Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys/problem)| <ul><li>[C#](./Algorithms/Implementation/Counting%20Valleys/Solution.cs)</li><ul> | Easy | 15 ||
 |[Electronics Shop](https://www.hackerrank.com/challenges/electronics-shop/problem)| <ul><li>[C#](./Algorithms/Implementation/Electronics%20Shop/Solution.cs)</li><ul> | Easy | 15 ||
 |[Cats and a Mouse](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem)| <ul><li>[C#](./Algorithms/Implementation/Cats%20and%20a%20Mouse/Solution.cs)</li><ul> | Easy | 15 ||
+	
+
+### Strings
+| Title           |  Solution       | Difficulty    | Points          |
+|---------------- |:---------------:| :-------------:|:--------------:|
+|[Super Reduced String](https://www.hackerrank.com/challenges/reduced-string/problem)| <ul><li>[C#](./Algorithms/Strings/Super%20Reduced%20String/Solution.cs)</li><ul> | Easy | 10 ||
 	
 
 

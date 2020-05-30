@@ -24,8 +24,8 @@
 | Title           |  Solution       | Difficulty    | Points          |
 |---------------- |:---------------:| :-------------:|:--------------:|
 |[Solve Me First](https://www.hackerrank.com/challenges/solve-me-first)| <ul><li>[C#](./Algorithms/Warmup/Solve%20Me%20First/Solution.cs)</li><li>[C++](./Algorithms/Warmup/Solve%20Me%20First/Solution.cpp)</li><ul> | Easy | 1 ||
-|[Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum)| <ul><li>[C#](./Algorithms/Warmup/Simple%20Array%20Sum/Solution.cs)</li><li>[Java](./Algorithms/Warmup/Simple%20Array%20Sum/Solution.java)</li><ul> | Easy | 10 ||
-|[Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets)| <ul><li>[C#](./Algorithms/Warmup/Compare%20the%20Triplets/Solution.cs)</li><ul> | Easy | 10 ||
+|[Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum)| <ul><li>[C#](./Algorithms/Warmup/Simple%20Array%20Sum/Solution.cs)</li><li>[C++](./Algorithms/Warmup/Simple%20Array%20Sum/Solution.cpp)</li><li>[Java](./Algorithms/Warmup/Simple%20Array%20Sum/Solution.java)</li><ul> | Easy | 10 ||
+|[Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets)| <ul><li>[C#](./Algorithms/Warmup/Compare%20the%20Triplets/Solution.cs)</li><li>[C++](./Algorithms/Warmup/Compare%20the%20Triplets/Solution.cpp)</li><ul> | Easy | 10 ||
 |[A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum)| <ul><li>[C#](./Algorithms/Warmup/A%20Very%20Big%20Sum/Solution.cs)</li><ul> | Easy | 10 ||
 |[Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference)| <ul><li>[C#](./Algorithms/Warmup/Diagonal%20Difference)</li><ul> | Easy | 10 ||
 |[Plus Minus](https://www.hackerrank.com/challenges/plus-minus)| <ul><li>[C#](./Algorithms/Warmup/Plus%20Minus/Solution.cs)</li><ul> | Easy | 10 ||

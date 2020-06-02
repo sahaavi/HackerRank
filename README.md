@@ -55,7 +55,6 @@
 |[Cats and a Mouse](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem)| <ul><li>[C#](./Algorithms/Implementation/Cats%20and%20a%20Mouse/Solution.cs)</li><ul> | Easy | 15 ||
 |[Viral Advertising](https://www.hackerrank.com/challenges/strange-advertising/problem)| <ul><li>[C#](./Algorithms/Implementation/Viral%20Advertising/Solution.cs)</li><ul> | Easy | 15 ||
 |[Angry Professor](https://www.hackerrank.com/challenges/angry-professor/problem)| <ul><li>[C#](./Algorithms/Implementation/Angry%20Professor/Solution.cs)</li><ul> | Easy | 20 ||
-	
 |[Find Digits](https://www.hackerrank.com/challenges/find-digits/problem)| <ul><li>[C#](./Algorithms/Implementation/Find%20Digits/Solution.cs)</li><ul> | Easy | 25 ||
 	
 

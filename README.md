@@ -9,9 +9,9 @@
 </p>
 
 <p align="center">
-	<img src="https://img.shields.io/badge/Problems%20Solved-31-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Problems%20Solved-32-brightgreen.svg">
 	<img src="https://img.shields.io/badge/Language-C%23%2FJava/Python-orange.svg">
-	<img src="https://img.shields.io/badge/Last%20Update-01%20June%202020-green.svg">
+	<img src="https://img.shields.io/badge/Last%20Update-02%20June%202020-green.svg">
 </p>
 
 
@@ -55,6 +55,8 @@
 |[Cats and a Mouse](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem)| <ul><li>[C#](./Algorithms/Implementation/Cats%20and%20a%20Mouse/Solution.cs)</li><ul> | Easy | 15 ||
 |[Viral Advertising](https://www.hackerrank.com/challenges/strange-advertising/problem)| <ul><li>[C#](./Algorithms/Implementation/Viral%20Advertising/Solution.cs)</li><ul> | Easy | 15 ||
 |[Angry Professor](https://www.hackerrank.com/challenges/angry-professor/problem)| <ul><li>[C#](./Algorithms/Implementation/Angry%20Professor/Solution.cs)</li><ul> | Easy | 20 ||
+	
+|[Find Digits](https://www.hackerrank.com/challenges/find-digits/problem)| <ul><li>[C#](./Algorithms/Implementation/Find%20Digits/Solution.cs)</li><ul> | Easy | 25 ||
 	
 
 ### Strings

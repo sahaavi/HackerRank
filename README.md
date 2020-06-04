@@ -9,9 +9,9 @@
 </p>
 
 <p align="center">
-	<img src="https://img.shields.io/badge/Problems%20Solved-33-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Problems%20Solved-34-brightgreen.svg">
 	<img src="https://img.shields.io/badge/Language-C%23%2FJava/Python-orange.svg">
-	<img src="https://img.shields.io/badge/Last%20Update-03%20June%202020-green.svg">
+	<img src="https://img.shields.io/badge/Last%20Update-04%20June%202020-green.svg">
 </p>
 
 
@@ -26,13 +26,13 @@
 |[Solve Me First](https://www.hackerrank.com/challenges/solve-me-first)| <ul><li>[C#](./Algorithms/Warmup/Solve%20Me%20First/Solution.cs)</li><li>[C++](./Algorithms/Warmup/Solve%20Me%20First/Solution.cpp)</li><ul> | Easy | 1 ||
 |[Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum)| <ul><li>[C#](./Algorithms/Warmup/Simple%20Array%20Sum/Solution.cs)</li><li>[C++](./Algorithms/Warmup/Simple%20Array%20Sum/Solution.cpp)</li><li>[Java](./Algorithms/Warmup/Simple%20Array%20Sum/Solution.java)</li><ul> | Easy | 10 ||
 |[Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets)| <ul><li>[C#](./Algorithms/Warmup/Compare%20the%20Triplets/Solution.cs)</li><li>[C++](./Algorithms/Warmup/Compare%20the%20Triplets/Solution.cpp)</li><ul> | Easy | 10 ||
-|[A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum)| <ul><li>[C#](./Algorithms/Warmup/A%20Very%20Big%20Sum/Solution.cs)</li><ul> | Easy | 10 ||
-|[Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference)| <ul><li>[C#](./Algorithms/Warmup/Diagonal%20Difference)</li><ul> | Easy | 10 ||
-|[Plus Minus](https://www.hackerrank.com/challenges/plus-minus)| <ul><li>[C#](./Algorithms/Warmup/Plus%20Minus/Solution.cs)</li><ul> | Easy | 10 ||
+|[A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum)| <ul><li>[C#](./Algorithms/Warmup/A%20Very%20Big%20Sum/Solution.cs)</li><li>[C++](./Algorithms/Warmup/A%20Very%20Big%20Sum/Solution.cpp)</li><ul> | Easy | 10 ||
+|[Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference)| <ul><li>[C#](./Algorithms/Warmup/Diagonal%20Difference/Solution.cs)</li><li>[C++](./Algorithms/Warmup/Diagonal%20Difference/Solution.cpp)</li><ul> | Easy | 10 ||
+|[Plus Minus](https://www.hackerrank.com/challenges/plus-minus)| <ul><li>[C#](./Algorithms/Warmup/Plus%20Minus/Solution.cs)</li></li><li>[C++](./Algorithms/Warmup/Plus%20Minus/Solution.cpp)</li><ul> | Easy | 10 ||
 |[Staircase](https://www.hackerrank.com/challenges/staircase)| <ul><li>[C#](./Algorithms/Warmup/Staircase/Solution.cs)</li><ul> | Easy | 10 ||
-|[Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum)| <ul><li>[C#](./Algorithms/Warmup/Mini-Max%20Sum/Solution.cs)</li><ul> | Easy | 10 ||
+|[Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum)| <ul><li>[C#](./Algorithms/Warmup/Mini-Max%20Sum/Solution.cs)</li><li>[C++](./Algorithms/Warmup/Mini-Max%20Sum/Solution.cpp)</li><ul> | Easy | 10 ||
 |[Time Conversion](https://www.hackerrank.com/challenges/time-conversion)| <ul><li>[C#](./Algorithms/Warmup/Time%20Conversion/Solution.cs)</li><ul> | Easy | 15 ||
-|[Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles)| <ul><li>[C#](./Algorithms/Warmup/Birthday%20Cake%20Candles/Solution.cs)</li><ul> | Easy | 10 ||
+|[Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles)| <ul><li>[C#](./Algorithms/Warmup/Birthday%20Cake%20Candles/Solution.cs)</li><li>[C++](./Algorithms/Warmup/Birthday%20Cake%20Candles/Solution.cpp)</li><ul> | Easy | 10 ||
 
 
 ### Implementation
@@ -57,6 +57,7 @@
 |[Angry Professor](https://www.hackerrank.com/challenges/angry-professor/problem)| <ul><li>[C#](./Algorithms/Implementation/Angry%20Professor/Solution.cs)</li><ul> | Easy | 20 ||
 |[Find Digits](https://www.hackerrank.com/challenges/find-digits/problem)| <ul><li>[C#](./Algorithms/Implementation/Find%20Digits/Solution.cs)</li><ul> | Easy | 25 ||
 |[Designer PDF Viewer](https://www.hackerrank.com/challenges/designer-pdf-viewer/problem)| <ul><li>[C#](./Algorithms/Implementation/Designer%20PDF%20Viewer/Solution.cs)</li><ul> | Easy | 20 ||
+|[Service Lane](https://www.hackerrank.com/challenges/service-lane/problem)| <ul><li>[C#](./Algorithms/Implementation/Service%20Lane/Solution.cs)</li><ul> | Easy | 20 ||
 	
 
 ### Strings

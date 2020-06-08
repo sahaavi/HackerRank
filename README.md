@@ -9,9 +9,9 @@
 </p>
 
 <p align="center">
-	<img src="https://img.shields.io/badge/Problems%20Solved-34-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Problems%20Solved-35-brightgreen.svg">
 	<img src="https://img.shields.io/badge/Language-C%23%2FJava/Python-orange.svg">
-	<img src="https://img.shields.io/badge/Last%20Update-04%20June%202020-green.svg">
+	<img src="https://img.shields.io/badge/Last%20Update-08%20June%202020-green.svg">
 </p>
 
 
@@ -58,6 +58,7 @@
 |[Find Digits](https://www.hackerrank.com/challenges/find-digits/problem)| <ul><li>[C#](./Algorithms/Implementation/Find%20Digits/Solution.cs)</li><ul> | Easy | 25 ||
 |[Designer PDF Viewer](https://www.hackerrank.com/challenges/designer-pdf-viewer/problem)| <ul><li>[C#](./Algorithms/Implementation/Designer%20PDF%20Viewer/Solution.cs)</li><ul> | Easy | 20 ||
 |[Service Lane](https://www.hackerrank.com/challenges/service-lane/problem)| <ul><li>[C#](./Algorithms/Implementation/Service%20Lane/Solution.cs)</li><ul> | Easy | 20 ||
+|[The Hurdle Race](https://www.hackerrank.com/challenges/the-hurdle-race/problem)| <ul><li>[C#](./Algorithms/Implementation/The%20Hurdle%20Race/Solution.cs)</li><ul> | Easy | 15 ||
 	
 
 ### Strings

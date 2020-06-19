@@ -9,9 +9,9 @@
 </p>
 
 <p align="center">
-	<img src="https://img.shields.io/badge/Problems%20Solved-36-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Problems%20Solved-37-brightgreen.svg">
 	<img src="https://img.shields.io/badge/Language-C%23%2FJava/Python-orange.svg">
-	<img src="https://img.shields.io/badge/Last%20Update-15%20June%202020-green.svg">
+	<img src="https://img.shields.io/badge/Last%20Update-20%20June%202020-green.svg">
 </p>
 
 
@@ -81,6 +81,7 @@
 |[Arithmetic Operators](https://www.hackerrank.com/challenges/python-arithmetic-operators/problem)| <ul><li>[Python 3](./Python/Introduction/Arithmetic%20Operators/Solution.py)</li><ul> | Easy | 10 ||
 |[Python: Division](https://www.hackerrank.com/challenges/python-division/problem)| <ul><li>[Python 3](./Python/Introduction/Python:%20Division/Solution.py)</li><ul> | Easy | 10 ||
 |[Write a function](https://www.hackerrank.com/challenges/write-a-function/problem)| <ul><li>[Python 3](./Python/Introduction/Write%20a%20function)</li><ul> | Medium | 10 ||
+|[Python If-Else](https://www.hackerrank.com/challenges/py-if-else/problem)| <ul><li>[Python 3](./Python/Introduction/Python%20If-Else)</li><ul> | Easy | 10 ||
 
 
 

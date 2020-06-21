@@ -9,9 +9,9 @@
 </p>
 
 <p align="center">
-	<img src="https://img.shields.io/badge/Problems%20Solved-39-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Problems%20Solved-40-brightgreen.svg">
 	<img src="https://img.shields.io/badge/Language-C%23%2FJava/Python-orange.svg">
-	<img src="https://img.shields.io/badge/Last%20Update-20%20June%202020-green.svg">
+	<img src="https://img.shields.io/badge/Last%20Update-20%21June%202020-green.svg">
 </p>
 
 
@@ -73,6 +73,7 @@
 
 ## Python
 - [Introduction](https://github.com/sahaavi/HackerRank/tree/master/Python/Introduction)
+- [Basic Data Types](https://github.com/sahaavi/HackerRank/tree/master/Python/Basic%20Data%20Types)
 
 ### Introduction
 | Title           |  Solution       | Difficulty    | Points          |
@@ -84,6 +85,13 @@
 |[Python If-Else](https://www.hackerrank.com/challenges/py-if-else/problem)| <ul><li>[Python 3](./Python/Introduction/Python%20If-Else)</li><ul> | Easy | 10 ||
 |[Loops](https://www.hackerrank.com/challenges/python-loops/problem)| <ul><li>[Python 3](./Python/Introduction/Loops)</li><ul> | Easy | 10 ||
 |[Print Function](https://www.hackerrank.com/challenges/python-print/problem)| <ul><li>[Python 3](./Python/Introduction/Print%20Function)</li><ul> | Easy | 20 ||
+	
+	
+### Basic Data Types
+| Title           |  Solution       | Difficulty    | Points          |
+|---------------- |:---------------:| :-------------:|:--------------:|
+|[List Comprehensions](https://www.hackerrank.com/challenges/list-comprehensions/problem)| <ul><li>[Python 3](./Python/Basic%20Data%20Types/List%20Comprehensions)</li><ul> | Easy | 10 ||
+
 
 
 

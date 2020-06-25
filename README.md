@@ -9,9 +9,9 @@
 </p>
 
 <p align="center">
-	<img src="https://img.shields.io/badge/Problems%20Solved-40-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Problems%20Solved-41-brightgreen.svg">
 	<img src="https://img.shields.io/badge/Language-C%23%2FJava/Python-orange.svg">
-	<img src="https://img.shields.io/badge/Last%20Update-21%20June%202020-green.svg">
+	<img src="https://img.shields.io/badge/Last%20Update-25%20June%202020-green.svg">
 </p>
 
 
@@ -65,6 +65,7 @@
 | Title           |  Solution       | Difficulty    | Points          |
 |---------------- |:---------------:| :-------------:|:--------------:|
 |[Super Reduced String](https://www.hackerrank.com/challenges/reduced-string/problem)| <ul><li>[C#](./Algorithms/Strings/Super%20Reduced%20String/Solution.cs)</li><ul> | Easy | 10 ||
+|[CamelCase](https://www.hackerrank.com/challenges/camelcase/problem)| <ul><li>[C#](./Algorithms/Strings/CamelCase/Solution.cs)</li><ul> | Easy | 15 ||
 	
 
 

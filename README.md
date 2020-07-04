@@ -9,9 +9,9 @@
 </p>
 
 <p align="center">
-	<img src="https://img.shields.io/badge/Problems%20Solved-42-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Problems%20Solved-43-brightgreen.svg">
 	<img src="https://img.shields.io/badge/Language-C%23%2FJava/Python-orange.svg">
-	<img src="https://img.shields.io/badge/Last%20Update-01%20July%202020-green.svg">
+	<img src="https://img.shields.io/badge/Last%20Update-04%20July%202020-green.svg">
 </p>
 
 
@@ -60,6 +60,7 @@
 |[Service Lane](https://www.hackerrank.com/challenges/service-lane/problem)| <ul><li>[C#](./Algorithms/Implementation/Service%20Lane/Solution.cs)</li><ul> | Easy | 20 ||
 |[The Hurdle Race](https://www.hackerrank.com/challenges/the-hurdle-race/problem)| <ul><li>[C#](./Algorithms/Implementation/The%20Hurdle%20Race/Solution.cs)</li><ul> | Easy | 15 ||
 |[Beautiful Days at the Movies](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem)| <ul><li>[C#](./Algorithms/Implementation/Beautiful%20Days%20at%20the%20Movies/Solution.cs)</li><ul> | Easy | 15 ||
+|[Utopian Tree](https://www.hackerrank.com/challenges/utopian-tree/problem)| <ul><li>[C#](./Algorithms/Implementation/Utopian%20Tree/Solution.cs)</li><ul> | Easy | 20 ||
 	
 
 ### Strings

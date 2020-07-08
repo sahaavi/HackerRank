@@ -9,9 +9,9 @@
 </p>
 
 <p align="center">
-	<img src="https://img.shields.io/badge/Problems%20Solved-43-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Problems%20Solved-44-brightgreen.svg">
 	<img src="https://img.shields.io/badge/Language-C%23%2FJava/Python-orange.svg">
-	<img src="https://img.shields.io/badge/Last%20Update-04%20July%202020-green.svg">
+	<img src="https://img.shields.io/badge/Last%20Update-08%20July%202020-green.svg">
 </p>
 
 
@@ -68,6 +68,7 @@
 |---------------- |:---------------:| :-------------:|:--------------:|
 |[Super Reduced String](https://www.hackerrank.com/challenges/reduced-string/problem)| <ul><li>[C#](./Algorithms/Strings/Super%20Reduced%20String/Solution.cs)</li><ul> | Easy | 10 ||
 |[CamelCase](https://www.hackerrank.com/challenges/camelcase/problem)| <ul><li>[C#](./Algorithms/Strings/CamelCase/Solution.cs)</li><ul> | Easy | 15 ||
+|[Strong Password](https://www.hackerrank.com/challenges/strong-password/problem)| <ul><li>[C#](./Algorithms/Strings/Strong%20Password/Solution.cs)</li><ul> | Easy | 15 ||
 	
 
 

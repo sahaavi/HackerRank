@@ -9,9 +9,9 @@
 </p>
 
 <p align="center">
-	<img src="https://img.shields.io/badge/Problems%20Solved-44-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Problems%20Solved-45-brightgreen.svg">
 	<img src="https://img.shields.io/badge/Language-C%23%2FJava/Python-orange.svg">
-	<img src="https://img.shields.io/badge/Last%20Update-08%20July%202020-green.svg">
+	<img src="https://img.shields.io/badge/Last%20Update-10%20July%202020-green.svg">
 </p>
 
 
@@ -71,6 +71,11 @@
 |[Strong Password](https://www.hackerrank.com/challenges/strong-password/problem)| <ul><li>[C#](./Algorithms/Strings/Strong%20Password/Solution.cs)</li><ul> | Easy | 15 ||
 	
 
+
+### Sorting
+| Title           |  Solution       | Difficulty    | Points          |
+|---------------- |:---------------:| :-------------:|:--------------:|
+|[Intro to Tutorial Challenges](https://www.hackerrank.com/challenges/tutorial-intro/problem)| <ul><li>[C#](./Algorithms/Sorting/Intro%20to%20Tutorial%20Challenges/Solution.cs)</li><ul> | Easy | 30 ||
 
 
 

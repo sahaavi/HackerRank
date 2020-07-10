@@ -15,7 +15,8 @@ class Solution
 
     static void Main(String[] args)
     {
-        var v = int.Parse(Console.ReadLine())
+        var v = int.Parse(Console.ReadLine());
+        
         Console.ReadLine();
         var arr_temp = Console.ReadLine().Split(' ');
         var arr = Array.ConvertAll(arr_temp, Int32.Parse);

@@ -9,9 +9,9 @@
 </p>
 
 <p align="center">
-	<img src="https://img.shields.io/badge/Problems%20Solved-46-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Problems%20Solved-47-brightgreen.svg">
 	<img src="https://img.shields.io/badge/Language-C%23%2FJava/Python-orange.svg">
-	<img src="https://img.shields.io/badge/Last%20Update-11%20July%202020-green.svg">
+	<img src="https://img.shields.io/badge/Last%20Update-16%20July%202020-green.svg">
 </p>
 
 
@@ -70,6 +70,7 @@
 |[CamelCase](https://www.hackerrank.com/challenges/camelcase/problem)| <ul><li>[C#](./Algorithms/Strings/CamelCase/Solution.cs)</li><ul> | Easy | 15 ||
 |[Strong Password](https://www.hackerrank.com/challenges/strong-password/problem)| <ul><li>[C#](./Algorithms/Strings/Strong%20Password/Solution.cs)</li><ul> | Easy | 15 ||
 |[Alternating Characters](https://www.hackerrank.com/challenges/alternating-characters/problem)| <ul><li>[C#](./Algorithms/Strings/Alternating%20Characters/Solution.cs)</li><ul> | Easy | 20 ||
+|[HackerRank in a String!](https://www.hackerrank.com/challenges/hackerrank-in-a-string/problem)| <ul><li>[C#](./Algorithms/Strings/HackerRank%20in%20a%20String!/Solution.cs)</li><ul> | Easy | 20 ||
 	
 
 

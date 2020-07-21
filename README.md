@@ -9,9 +9,9 @@
 </p>
 
 <p align="center">
-	<img src="https://img.shields.io/badge/Problems%20Solved-47-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Problems%20Solved-48-brightgreen.svg">
 	<img src="https://img.shields.io/badge/Language-C%23%2FJava/Python-orange.svg">
-	<img src="https://img.shields.io/badge/Last%20Update-16%20July%202020-green.svg">
+	<img src="https://img.shields.io/badge/Last%20Update-21%20July%202020-green.svg">
 </p>
 
 
@@ -78,6 +78,7 @@
 | Title           |  Solution       | Difficulty    | Points          |
 |---------------- |:---------------:| :-------------:|:--------------:|
 |[Intro to Tutorial Challenges](https://www.hackerrank.com/challenges/tutorial-intro/problem)| <ul><li>[C#](./Algorithms/Sorting/Intro%20to%20Tutorial%20Challenges/Solution.cs)</li><ul> | Easy | 30 ||
+|[Counting Sort 2](https://www.hackerrank.com/challenges/countingsort2/problem)| <ul><li>[C#](./Algorithms/Sorting/Counting%20Sort%202/Solution.cs)</li><ul> | Easy | 30 ||
 
 
 

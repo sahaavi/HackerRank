@@ -1,0 +1,12 @@
+x = int(input())
+if x >= 2 & x<= 10:
+    n=x
+arr = list(map(int,input().split()))[:n]
+scores = []
+for i in arr:
+    if i < -100 & i > 100:
+        print("Wrong number inputed!!!")
+    else:
+      scores.append(i)
+
+print(sorted(list(set(scores)))[-2]) #set() method is used to convert any of the iterable to sequence of iterable elements with distinct elements

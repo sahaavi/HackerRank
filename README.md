@@ -103,6 +103,7 @@
 | Title           |  Solution       | Difficulty    | Points          |
 |---------------- |:---------------:| :-------------:|:--------------:|
 |[List Comprehensions](https://www.hackerrank.com/challenges/list-comprehensions/problem)| <ul><li>[Python 3](./Python/Basic%20Data%20Types/List%20Comprehensions)</li><ul> | Easy | 10 ||
+|[Find the Runner-Up Score!](https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem)| <ul><li>[Python 3](./Python/Basic%20Data%20Types/Find%20the%20Runner-Up%20Score!)</li><ul> | Easy | 10 ||
 
 
 

@@ -1,0 +1,19 @@
+if __name__ == '__main__':
+    N = int(input())
+    arr = []
+    for _ in range(N):
+        todo, *line = input().split()
+        if todo == 'insert':
+            arr.insert(int(line[0]), int(line[1]))
+        elif todo == 'print':
+            print(arr)
+        elif todo == 'remove':
+            arr.remove(int(line[0]))
+        elif todo == 'append':
+            arr.append(int(line[0]))
+        elif todo == 'sort':
+            arr.sort()
+        elif todo == 'pop':
+            arr.pop()
+        elif todo == 'reverse':
+            arr.reverse()
